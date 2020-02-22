@@ -23,13 +23,13 @@ RM-L-9015 是一款内部集成驱动器的高可靠性直流无刷电机，可�
 
 ### :construction: 接口说明 / Interface Specification
 
-![RM-L-9015_IMG][电机示意图]
+![RM-L-9015_IMG][电机示意图]  
 A. 蓝色电源指示灯。  
 B. 红色故障指示灯。  
 C. SH1.0-5pin接口，集成TTL接口和PWM接口。  
-![SH1.0-5pin接口][SH1.0-5pin接口]
+![SH1.0-5pin接口][SH1.0-5pin接口]  
 D. ZH1.5-8pin接口，集成24V电源接口和CAN接口。  
-![ZH1.5-8pin接口][ZH1.5-8pin接口]
+![ZH1.5-8pin接口][ZH1.5-8pin接口]  
 
 ##### :one:. CAN 总线接口
 
