@@ -14,12 +14,12 @@ RM-L-9015 是一款内部集成驱动器的高可靠性直流无刷电机，可�
 
 ### :gift: 产品特性/ Product Characteristics
 
-•  空心轴结构，用户可根据需求安装滑环等配件
-•  电机和驱动器一体化设计，结构紧凑，集成度高
-•  支持多种通讯方式（CAN、 PWM）
-•  支持使用上位机软件进行调参
-•  支持通过拨码开关设置 ID 和选通 CAN 终端电阻
-•  具有电源防反接和过压保护等功能
+•  空心轴结构，用户可根据需求安装滑环等配件  
+•  电机和驱动器一体化设计，结构紧凑，集成度高  
+•  支持多种通讯方式（CAN、 PWM）  
+•  支持使用上位机软件进行调参  
+•  支持通过拨码开关设置 ID 和选通 CAN 终端电阻  
+•  具有电源防反接和过压保护等功能  
 
 ### :construction: 接口说明 / Interface Specification
 
@@ -101,7 +101,7 @@ D. ZH1.5-8pin接口，集成24V电源接口和CAN接口。
 <!-- Markdown 超链接管理 -->
 
 [淘宝链接]: https://www.taobao.com ""
-[官网]: www.haitaijd.cn
+[官网]: https://www.haitaijd.cn
 [CH34x驱动]: http://www.wch.cn/downloads/CH341SER_ZIP.html
 
 <!-- Markdown 图片链接管理 -->
